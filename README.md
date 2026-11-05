@@ -21,3 +21,7 @@ Change the PWM pulse width in the example code to command a different position. 
 ## Adding an Example
 
 For each new example, document the target STM32 board, timer and channel, PWM output pin, servo model, and expected movement.
+
+## Change Log
+
+- **5/11/2026** · **Himanshu Chavan** ·
